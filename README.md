@@ -1,1 +1,1 @@
-# H1 Display for Wahoo Kick Shift
+# Display for Wahoo Kick Shift
