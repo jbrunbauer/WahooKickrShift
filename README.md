@@ -1,1 +1,1 @@
-# Display for Wahoo Kick Shift
+# Display for Wahoo Kickr Shift
