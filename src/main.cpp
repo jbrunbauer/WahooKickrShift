@@ -46,10 +46,10 @@ int AdvertisingIntervalOld = 0;
 int AdvertisingInterval = 0;
 
 // BLE Server name
-#define bleServerName "KICKR BIKE SHIFT 720C"
+#define bleServerName "KICKR BIKE SHIFT A19B"
 
 // Weight
-float flUserWeight = 1;
+float flUserWeight = 64;
 
 // Cadence
 // Crank Event Time
